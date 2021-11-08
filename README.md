@@ -22,3 +22,6 @@ This webapp is used for Heart Disease Prediction and recommends it, if the patie
 * CSS
 * Heruko
 * Numpy/Pandas
+
+## Deployed Link
+(https://heart-disease-guess.herokuapp.com/)
