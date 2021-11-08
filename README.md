@@ -13,6 +13,10 @@ This webapp is used for Heart Disease Prediction and recommends it, if the patie
 
 ![image](https://user-images.githubusercontent.com/74492075/140758415-a02dbbe6-27c1-47df-be04-eefcf0960f20.png)
 
+## Flowchart
+![133974005-d230febc-b78a-494b-9842-a8f83eaa70bf](https://user-images.githubusercontent.com/74492075/140759253-d77a1b85-1d86-4926-9bf0-8084efbe1022.jpeg)
+
+
 ## TechStack
 
 * Flask
