@@ -24,4 +24,7 @@ This webapp is used for Heart Disease Prediction and recommends it, if the patie
 * Numpy/Pandas
 
 ## Deployed Link
-(https://heart-disease-guess.herokuapp.com/)
+https://heart-disease-guess.herokuapp.com/
+
+## Link to dataset
+https://www.kaggle.com/ronitf/heart-disease-uci
